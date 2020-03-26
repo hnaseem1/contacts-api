@@ -1,0 +1,19 @@
+{
+  "name": "contacts-api",
+  "version": "1.0.0",
+  "description": "express mongo rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "restful",
+    "json"
+  ],
+  "author": "Hasan Naseem",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
